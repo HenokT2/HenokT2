@@ -1,6 +1,6 @@
-## Hello, I'm Henok
-## I'm interested in hardware
-## I also want to work in Cybersecurity.
+## - Hello, I'm Henok
+## - I'm interested in hardware
+## - I also want to work in Cybersecurity.
 ## - 📫 How to reach me: Tekle020@umn.edu
 <!--
 **HenokT2/HenokT2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
