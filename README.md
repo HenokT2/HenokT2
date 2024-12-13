@@ -1,4 +1,5 @@
 - Hello, I'm Henok
+- I like Art
 - I'm interested in hardware
 - I also want to work in Cybersecurity.
 - 📫 How to reach me: Tekle020@umn.edu
